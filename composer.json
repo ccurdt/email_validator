@@ -1,5 +1,5 @@
 {
-    "name": "roomoot/email_validator",
+    "name": "ccurdt/email_validator",
     "type": "library",
     "description": "A PHP Mail Validation Class through SMTP.",
     "keywords": ["scraper", "mail", "smtp", "validator"],
